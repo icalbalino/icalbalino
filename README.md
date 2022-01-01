@@ -1,4 +1,4 @@
-## Hi, I'm Ical 👋 
+# Hi, I'm Ical 👋 
 
 <!--
 **icalbalino/icalbalino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
