@@ -18,11 +18,12 @@ Sometimes I like coding. I'm a software engineer who passionate about web develo
 <br />
 <br />
 
-<a align="center" href="https://twitter.com/icalbalino">
-  <img style="text-align: center;" height="25" src="https://github.com/icalbalino/icalbalino/blob/master/asset/twitter.png" alt="twitter logo png">
+<a href="https://twitter.com/icalbalino">
+  <img align="center" height="25" src="https://github.com/icalbalino/icalbalino/blob/master/asset/twitter.png" alt="twitter logo png">
 </a>
-<a align="center" href="https://www.instagram.com/icalbalino">
-  <img style="text-align: center;" height="25" src="https://github.com/icalbalino/icalbalino/blob/master/asset/insta.png" alt="instagram logo png">
+&nbsp; &nbsp; &nbsp;
+<a href="https://www.instagram.com/icalbalino">
+  <img align="center" height="25" src="https://github.com/icalbalino/icalbalino/blob/master/asset/insta.png" alt="instagram logo png">
 </a>
 
 
