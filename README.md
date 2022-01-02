@@ -8,11 +8,11 @@ Sometimes I like coding. I'm a software engineer who passionate about web develo
 
 ### **Languages and Tools:**
 
-<code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/html.png" alt="html logo png"></code>
-<code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/css.png" alt="css logo png"></code>
-<code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/javascript.png" alt="javascript logo png"></code>
-<code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/nodejs.png" alt="nodejs logo png"></code>
-<code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/vsc.png" alt="visual studio code logo png"></code>
+<code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/html.png" alt="html logo png"></code> &nbsp;
+<code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/css.png" alt="css logo png"></code> &nbsp;
+<code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/javascript.png" alt="javascript logo png"></code> &nbsp;
+<code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/nodejs.png" alt="nodejs logo png"></code> &nbsp;
+<code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/vsc.png" alt="visual studio code logo png"></code> &nbsp;
 <code><img height="25" src="https://github.com/icalbalino/icalbalino/blob/master/asset/github.png" alt="github logo png"></code>
 
 <br />
@@ -21,7 +21,7 @@ Sometimes I like coding. I'm a software engineer who passionate about web develo
 <a href="https://twitter.com/icalbalino">
   <img align="center" height="25" src="https://github.com/icalbalino/icalbalino/blob/master/asset/twitter.png" alt="twitter logo png">
 </a>
-&nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp;
 <a href="https://www.instagram.com/icalbalino">
   <img align="center" height="25" src="https://github.com/icalbalino/icalbalino/blob/master/asset/insta.png" alt="instagram logo png">
 </a>
