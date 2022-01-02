@@ -4,7 +4,6 @@
 
 Sometimes I like coding. I'm a software engineer who passionate about web development. I learn HTML, CSS, JavaScript, CSs stuff and still know nothing. but I do know something.
 
-<br />
 
 ### **Languages and Tools:**
 
