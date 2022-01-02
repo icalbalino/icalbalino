@@ -31,7 +31,7 @@ Sometimes I like coding. I'm a software engineer who passionate about web develo
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icalbalino)](https://github.com/anuraghazra/github-readme-stats)
+[Ical Balino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=icalbalino)
 
 
 
