@@ -14,6 +14,17 @@ Sometimes I like coding. I'm a software engineer who passionate about web develo
 <code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/vsc.png" alt="visual studio code logo png"></code>
 <code><img height="25" src="https://github.com/icalbalino/icalbalino/blob/master/asset/github.png" alt="github logo png"></code>
 
+<br />
+<br />
+
+<a href="https://twitter.com/icalbalino">
+  <code><img align="center" height="25" src="https://github.com/icalbalino/icalbalino/blob/master/asset/twitter.png" alt="twitter logo png"></code>
+</a>
+<a href="https://www.instagram.com/icalbalino">
+  <code><img align="center" height="25" src="https://github.com/icalbalino/icalbalino/blob/master/asset/insta.png" alt="instagram logo png"></code>
+</a>
+
+
 
 <!--
 **icalbalino/icalbalino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
