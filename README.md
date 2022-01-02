@@ -31,7 +31,7 @@ Sometimes I like coding. I'm a software engineer who passionate about web develo
 <br />
 <br />
 
-![Ical Balino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=icalbalino&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true&border_radius=20)
+![Ical Balino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=icalbalino&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true&border_radius=20&langs_count=10)
 
 
 
