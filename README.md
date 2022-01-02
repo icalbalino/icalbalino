@@ -5,7 +5,15 @@ Sometimes I like coding. I'm a software engineer who passionate about web develo
 
 <br />
 
-## **Languages and Tools:**
+## About me
+- 🌱 I’m currently learning Web Audio API with JavaScript
+- 💬 Ask me about anything [here](https://github.com/icalbalino/icalbalino/issues)
+- 📫 How to reach me: hit me on instagram or email
+- ⚡ Fun fact: no fact, but I'm fun
+
+<br />
+
+## Languages and Tools
 <code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/html.png" alt="html logo png"></code> &nbsp;
 <code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/css.png" alt="css logo png"></code> &nbsp;
 <code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/javascript.png" alt="javascript logo png"></code> &nbsp;
