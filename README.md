@@ -4,7 +4,8 @@
 
 Sometimes I like coding. I'm a software engineer who passionate about web development. I learn HTML, CSS, JavaScript, CSs stuff and still know nothing. but I do know something.
 
-**Languages and Tools:**
+
+### **Languages and Tools:**
 
 <code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/html.png"></code>
 <code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/css.png"></code>
