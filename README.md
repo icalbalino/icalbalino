@@ -1,6 +1,6 @@
 # Hi, I'm Ical 👋 
 
-<img src="https://github.com/icalbalino/icalbalino/blob/master/asset/cloud.gif" alt="binary rain cloud">
+<img src="https://github.com/icalbalino/icalbalino/blob/master/asset/cloud.gif" alt="binary rain cloud" width="100%" height="auto">
 
 <!--
 **icalbalino/icalbalino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
