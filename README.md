@@ -25,7 +25,7 @@ Sometimes I like coding. I'm a software engineer who passionate about web develo
   </a>
 </p>
 
-<hr />
+## 
 <br />
 <br />
 
