@@ -28,6 +28,12 @@ Sometimes I like coding. I'm a software engineer who passionate about web develo
   </a>
 </p>
 
+<br />
+<br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icalbalino)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **icalbalino/icalbalino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
