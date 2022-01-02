@@ -3,9 +3,9 @@
 Sometimes I like coding. I'm a software engineer who passionate about web development. I learn HTML, CSS, JavaScript, CSs stuff and still know nothing. but I do know something.
 </p>
 
+<br />
 
 ## **Languages and Tools:**
-
 <code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/html.png" alt="html logo png"></code> &nbsp;
 <code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/css.png" alt="css logo png"></code> &nbsp;
 <code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/javascript.png" alt="javascript logo png"></code> &nbsp;
@@ -25,13 +25,11 @@ Sometimes I like coding. I'm a software engineer who passionate about web develo
   </a>
 </p>
 
-###
+##
 <br />
 
 ![icalbalino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=icalbalino&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&border_radius=20&count_private=true&hide=stars,prs,issues,contribs)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icalbalino&theme=github_dark&layout=compact&hide_border=true&border_radius=20)
-
 ![icalbalino's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=icalbalino&theme=github_dark&hide_border=true&border_radius=20)
 
 
