@@ -36,7 +36,7 @@ Sometimes I like coding. I'm a software engineer who passionate about web develo
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icalbalino&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icalbalino&layout=compact&card_width=500)
 
 <br />
 <br />
