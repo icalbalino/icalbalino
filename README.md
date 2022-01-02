@@ -18,7 +18,7 @@ Sometimes I like coding. I'm a software engineer who passionate about web develo
 <br />
 <br />
 
-<p align="center">
+<p align="center" style="text-decoration: none;">
   <a href="https://twitter.com/icalbalino" style="text-decoration: none;">
     <img height="25" src="https://github.com/icalbalino/icalbalino/blob/master/asset/twitter.png" alt="twitter logo png">
   </a>
