@@ -1,10 +1,7 @@
-<img src="https://github.com/icalbalino/icalbalino/blob/master/asset/hutan.jpg" alt="binary rain cloud" width="100%" height="400">
-
 <h1 align="center">Hi, I'm Ical 👋</h1>
 <p align="center">
 Sometimes I like coding. I'm a software engineer who passionate about web development. I learn HTML, CSS, JavaScript, CSs stuff and still know nothing. but I do know something.
 </p>
-
 
 ### **Languages and Tools:**
 
