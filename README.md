@@ -31,12 +31,12 @@ Sometimes I like coding. I'm a software engineer who passionate about web develo
 <br />
 <br />
 
-![icalbalino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=icalbalino&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true&border_radius=20&count_private=true&hide=stars,prs,issues,contribs)
+![icalbalino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=icalbalino&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true&border_radius=20&count_private=true&hide=stars,prs,issues,contribs&card_width=500)
 
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icalbalino&layout=compact&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icalbalino&theme=github_dark&layout=compact&border_radius=20&card_width=500)
 
 <br />
 <br />
