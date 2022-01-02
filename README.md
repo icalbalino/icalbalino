@@ -3,7 +3,8 @@
 Sometimes I like coding. I'm a software engineer who passionate about web development. I learn HTML, CSS, JavaScript, CSs stuff and still know nothing. but I do know something.
 </p>
 
-### **Languages and Tools:**
+
+## **Languages and Tools:**
 
 <code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/html.png" alt="html logo png"></code> &nbsp;
 <code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/css.png" alt="css logo png"></code> &nbsp;
@@ -12,7 +13,6 @@ Sometimes I like coding. I'm a software engineer who passionate about web develo
 <code><img height="20" src="https://github.com/icalbalino/icalbalino/blob/master/asset/vsc.png" alt="visual studio code logo png"></code> &nbsp;
 <code><img height="25" src="https://github.com/icalbalino/icalbalino/blob/master/asset/github.png" alt="github logo png"></code>
 
-<br />
 <br />
 
 <p align="center">
