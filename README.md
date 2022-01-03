@@ -1,4 +1,11 @@
 <h1 align="center">Hi, I'm Ical 👋</h1>
+
+<p align="center">
+Sometimes I like coding. I'm a software engineer who passionate about web development. I learn HTML, CSS, JavaScript, CSs stuff and still know nothing. but I do know something.
+</p>
+
+<br />
+
 <p align="center">
   <a href="https://twitter.com/icalbalino">
     <img height="25" src="https://github.com/icalbalino/icalbalino/blob/master/asset/twitter.png" alt="twitter logo png">
@@ -7,9 +14,6 @@
   <a href="https://www.instagram.com/icalbalino">
     <img height="25" src="https://github.com/icalbalino/icalbalino/blob/master/asset/insta.png" alt="instagram logo png">
   </a>
-</p>
-<p align="center">
-Sometimes I like coding. I'm a software engineer who passionate about web development. I learn HTML, CSS, JavaScript, CSs stuff and still know nothing. but I do know something.
 </p>
 
 <br />
