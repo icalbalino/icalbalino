@@ -42,6 +42,16 @@ Sometimes I like coding. I'm a software engineer who passionate about web develo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icalbalino&theme=github_dark&layout=compact&hide_border=true&border_radius=20&langs_count=10&card_width=445)
 
 <!--START_SECTION:waka-->
+
+```text
+Git Config   39 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.04 %
+TypeScript   29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
+Markdown     23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+JavaScript   23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 %
+CSS          15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+HTML         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
