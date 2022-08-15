@@ -40,12 +40,12 @@ Sometimes I like coding. I'm a software engineer who passionate about web develo
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 20 mins    ██████████▒░░░░░░░░░░░░░░   40.81 %
-Solidity     28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
-JavaScript   23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
-CSS          15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-Bash         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-Git Config   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+TypeScript   2 hrs 23 mins   ██████████░░░░░░░░░░░░░░░   40.19 %
+Solidity     2 hrs 13 mins   █████████▒░░░░░░░░░░░░░░░   37.49 %
+JavaScript   23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+CSS          15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Bash         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Git Config   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 ```
 
 <!--END_SECTION:waka-->
