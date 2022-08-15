@@ -19,7 +19,7 @@ Sometimes I like coding. I'm a software engineer who passionate about web develo
 <br />
 
 ## About me
-- 🌱 I’m currently learning Web 3 (Ethereum & Smart Contracts with Solidity)
+- 🌱 I’m currently learning Web 3 (Ethereum & Smart Contracts with Solidity), BTW
 - 💬 Ask me about anything [here](https://github.com/icalbalino/icalbalino/issues)
 - 📫 How to reach me: hit me on **Instagram** or **Email**
 - ⚡ Fun fact: no fact, but I'm fun
